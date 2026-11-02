@@ -1,0 +1,8 @@
+sounddevice
+numpy
+pyttsx3
+SpeechRecognition
+google-genai
+python-dotenv
+requests
+vosk
